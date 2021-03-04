@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168425954384",
+    "project_id": "click-counter-8df46",
+    "storage_bucket": "click-counter-8df46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168425954384:android:06725e7721bb23cb868555",
+        "android_client_info": {
+          "package_name": "com.leotarius.clickcounterworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168425954384-ucn1n56tbqfeddcg0d2d2853kg9dmm57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWyoNY86orkVWCZbFxnX_L9T2-8K2yaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168425954384-ucn1n56tbqfeddcg0d2d2853kg9dmm57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
